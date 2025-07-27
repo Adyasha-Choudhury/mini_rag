@@ -77,13 +77,9 @@ Key libraries used (see `requirements.txt`):
 
 ## 📌 Notes
 
-- Supports **multiple queries** on the same document.
+- Supports **multiple queries** on the same document. - still working on it
 - Add OCR fallback if PDF contains scanned text.
 - Easily extendable to handle multiple documents or chatbot-style history.
 
 ---
 
-## 📬 Contact
-
-Made with ❤️ for the MotorQ Internship Test.  
-Maintainer: [Your Name] – [your.email@example.com]
