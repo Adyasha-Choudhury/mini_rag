@@ -1,0 +1,14 @@
+langchain
+chromadb
+openai
+sentence-transformers
+pypdf
+tqdm
+python-dotenv
+pyspark                
+streamlit             
+unstructured 
+pdfplumber
+langchain-community
+langchain-openai          
+langchain_groq
