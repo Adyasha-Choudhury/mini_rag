@@ -1,4 +1,4 @@
-# mini_rag
+# SemantIQ
 
 # 🔍 Retrieval-Augmented Generation (RAG) Portal
 
