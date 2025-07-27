@@ -63,14 +63,14 @@ Key libraries used (see `requirements.txt`):
 - `chromadb` – Vector database for similarity search
 - `sentence-transformers` – Embedding generation
 - `openai` or `transformers` – LLM response generation
-- `streamlit` or `flask` – UI (based on your implementation)
+- `streamlit` – UI 
 
 ---
 
 ## ✍️ Example Use Case
 
 > Upload your policy document → Ask questions like:  
-> _“What is the claim procedure for 46-year-olds?”_  
+> _“40F, arm surgery, 2 months policy”_  
 > → Get structured answers in JSON format.
 
 ---
