@@ -31,7 +31,7 @@ A lightweight system to query natural language questions against large unstructu
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/rag-portal.git
+git clone https://github.com/Adyasha-Choudhury/mini_rag.git
 cd rag-portal
 ```
 
